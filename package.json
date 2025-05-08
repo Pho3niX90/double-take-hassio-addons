@@ -1,6 +1,6 @@
 {
   "name": "double-take-hassio-addons",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Double Take Hass.io Add-ons",
   "scripts": {
     "prepare": "husky install"
